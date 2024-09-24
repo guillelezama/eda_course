@@ -81,8 +81,8 @@ There is a folder called homework with the five homework assignments and the fin
 ## Syllabus
 
 The syllabus for the course is available in two versions:  
-- **[Syllabus.pdf](path_to_Syllabus.pdf)** - Spanish  
-- **[Syllabus_in_English.pdf](path_to_Syllabus_in_English.pdf)** - English  
+- **[Syllabus.pdf](Syllabus.pdf)** - Spanish  
+- **[Syllabus_in_English.pdf](Syllabus_in_English.pdf)** - English  
 
 ---
 
